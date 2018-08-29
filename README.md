@@ -10,3 +10,21 @@ Neste caso, os dados foram coletados e enviados para você, mas estão todos bag
 Agora que você já organizou a planilha para avaliação de crédito, o departamento de Recursos Humanos enviou outro arquivo, desta vez em CSV, contendo novas informações sobre os correntistas. Esse arquivo consta em anexo. Sua tarefa agora é incorporar esses novos dados à tabela antiga.
 Lembre-se: cada linha representa um evento, ou seja, todos os valores contidos na linha são referentes ao mesmo indivíduo; logo, você deve determinar se existe uma maneira de vincular os dois arquivos, mantendo a consistência e evitando características repetidas.
 Ao finalizar esta análise preliminar, clique no botão Não realizado, tenha acesso ao gabarito e faça a autocorreção do exercício.
+
+# SEMANA 4 - 21/08 a 28/08
+### AV - Exercício: Tabulação dos dados
+
+Data de vencimento
+Terça-feira, 28 de Agosto de 2018
+23:59
+Pontos possíveis
+10,00
+Computadores são muito bons em processar números, porém não tão bons assim em processar texto.
+
+Depois que você preparou a base de dados para análise, é necessário fazer algumas substituições de valores em texto para valores numéricos. Por exemplo, características possíveis que possuem valor “sim” ou “não” podem ser substituídas por 1 ou 0, respectivamente.
+
+Com base na tabela organizada na atividade formativa, chegou a hora de colocar a mão na massa e fazer esses ajustes para as características possíveis.
+
+Após ajustar a tabela, clique no título da atividade e anexe o arquivo para realizar a entrega.
+
+Percentual avaliativo: 10%
